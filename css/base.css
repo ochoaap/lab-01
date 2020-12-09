@@ -5,3 +5,14 @@
 div {
   border: 1px black solid;
 }
+
+body {
+  background: blue;
+}
+
+
+@media (min-width: 768px) {
+  body {
+    background: green;
+  }
+}
