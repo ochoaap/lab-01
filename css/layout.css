@@ -26,12 +26,15 @@
   width: 240px;
   height: 250px;
   background: lightgrey;
+  float: left;
 }
 
 #f {
   width: 240px;
   height: 250px;
   background: lightgrey;
+  float: left;
+
 }
 
 #g {
@@ -44,6 +47,7 @@
   width: 240px;
   height: 250px;
   background: lightgrey;
+  float: left;
 }
 
 #i {
