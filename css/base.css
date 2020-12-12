@@ -6,13 +6,8 @@ div {
   border: 1px black solid;
 }
 
-body {
+div {
   background: blue;
 }
 
 
-@media (min-width: 768px) {
-  body {
-    background: green;
-  }
-}
