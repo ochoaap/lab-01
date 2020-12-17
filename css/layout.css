@@ -8,6 +8,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(0,71, 189);
 }
 
 #b {
@@ -16,6 +17,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(7,185,252);
 }
 
 #c {
@@ -25,6 +27,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(0,149,67);
 }
 
 #d {
@@ -33,7 +36,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-
+  background-color: rgb(154,240,0);
 }
 
 #e {
@@ -43,6 +46,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(255,178,0);
 }
 
 #f {
@@ -52,6 +56,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(234,0,52);
 }
 
 #g {
@@ -61,6 +66,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(255,130,42);
 }
 
 #h {
@@ -70,6 +76,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(255,230,50);
 }
 
 #i {
@@ -79,12 +86,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(130,0,172);
 }
 
 
 @media screen and (min-width: 768px) {
   div {
-    background: red;
     float: left;
     display: block;
   }
@@ -97,7 +104,7 @@ body {
       width: 960px;
       height: 100px;
       align-items: center;
-      
+      background-color: rgb(130,0,172);
     }
     
     #b {
@@ -105,9 +112,7 @@ body {
       height: 600px;
       align-content: center;
       line-height: 600px;
-      /*
-    float: left;
-    display: block; */
+      background-color: rgb(255,230,50);;
     }
     
     #c {
@@ -117,6 +122,7 @@ body {
       line-height: 200px;
     float: left;
     display: block;
+    background-color: rgb(255,130,42);
     }
     
     #d {
@@ -126,6 +132,7 @@ body {
       line-height: 200px;
     float: left;
     display: block;
+    background-color: rgb(234,0,52);
     }
     
     #e {
@@ -133,9 +140,9 @@ body {
       height: 250px;
       text-align: center;
       line-height: 250px;
-    
     float: left;
     display: block;
+    background-color: rgb(255,178,0);
     }
     
     #f {
@@ -143,9 +150,9 @@ body {
       height: 250px;
       text-align: center;
       line-height: 250px;
-    
     float: left;
     display: block;
+    background-color: rgb(154,240,0);
     }
     
     #g {
@@ -153,10 +160,9 @@ body {
       height: 250px;
       text-align: center;
       line-height: 250px;
-    
     float: left;
     display: block;
-      
+    background-color: rgb(0,149,67);
     }
     
     #h {
@@ -166,6 +172,7 @@ body {
       line-height: 250px;
       float: left;
       display: block;
+      background-color: rgb(7,185,252);
     }
     
     #i {
@@ -173,7 +180,7 @@ body {
       height: 150px;
       text-align: center;
       line-height: 150px;
-      
+      background-color: rgb(0,71, 189) ;      
     }
     
   }
