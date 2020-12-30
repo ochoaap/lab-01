@@ -1,10 +1,10 @@
 body {
-  width: 480px;
+  width: 30em;
 }
 
 #a {
   width: 100%;
-  height: 75px;
+  height: 4.68em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13,7 +13,7 @@ body {
 
 #b {
     width: 100%;
-  height: 150px;
+  height: 9.375em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22,7 +22,7 @@ body {
 
 #c {
   width: 100%;
-  height: 125px;
+  height: 7.812em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,7 +31,7 @@ body {
 
 #d {
   width: 100%;
-  height: 125px;
+  height: 7.812em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -40,7 +40,7 @@ body {
 
 #e {
   width: 50%;
-  height: 250px;
+  height: 15.625em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,7 +49,7 @@ body {
 
 #f {
   width: 50%;
-  height: 250px;
+  height: 15.625em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -58,7 +58,7 @@ body {
 
 #g {
   width: 50%;
-  height: 250px;
+  height: 15.625em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -67,7 +67,7 @@ body {
 
 #h {
   width: 50%;
-  height: 250px;
+  height: 15.625em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -76,7 +76,7 @@ body {
 
 #i {
   width: 100%;
-  height: 80px;
+  height: 5em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -89,94 +89,94 @@ body {
 }
 
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 48em) {
   div {
     
     display: block;
   }
     body {
-      width: 960px;
+      width: 60em;
    }
     
     
     #a {
-      width: 960px;
-      height: 100px;
+      width: 60em;
+      height: 6.25em;
       align-items: center;
       background-color: rgb(130,0,172);
     }
     
     #b {
-      width: 200px;
-      height: 600px;
+      width: 12.5em;
+      height: 37.5em;
       align-content: center;
-      line-height: 600px;
+      line-height: 37.5em;
       background-color: rgb(255,230,50);;
     }
     
     #c {
       width: 50%;
-      height: 200px;
+      height: 12.5em;
       text-align: center;
-      line-height: 200px;
+      line-height: 12.5em;
       display: flex;
       background-color: rgb(255,130,42);
     }
     
     #d {
       width: 50%;
-      height: 200px;
+      height: 12.5em;
       text-align: center;
-      line-height: 200px;
+      line-height: 12.5em;
     display: flex;
     background-color: rgb(234,0,52);
     }
     
     #e {
       width: 25%;
-      height: 250px;
+      height: 15.625em;
       text-align: center;
-      line-height: 250px;
+      line-height: 15.625em;
     display: flex;
     background-color: rgb(255,178,0);
     }
     
     #f {
       width: 25%;
-      height: 250px;
+      height: 15.625em;
       text-align: center;
-      line-height: 250px;
+      line-height: 15.625em;
     display: flex;
     background-color: rgb(154,240,0);
     }
     
     #g {
       width: 25%;
-      height: 250px;
+      height: 15.625em;
       text-align: center;
-      line-height: 250px;
+      line-height: 15.625em;
       display: flex;
     background-color: rgb(0,149,67);
     }
     
     #h {
       width: 25%;
-      height: 250px;
+      height: 15.625em;
       text-align: center;
-      line-height: 250px;
+      line-height: 15.625em;
       display: flex;
       background-color: rgb(7,185,252);
     }
     
     #i {
-      width: 760px;
-      height: 150px;
+      width: 47.5;
+      height: 9.375em;
       text-align: center;
-      line-height: 150px;
+      line-height: 9.375em;
       background-color: rgb(0,71, 189) ;      
     }
 .containerOne {
-  width: 760px; ;
+  width: 47.5em; ;
 }    
 main {
   display: flex;
